@@ -1,0 +1,3 @@
+com/univalle/cataya/ServletInitializer.class
+com/univalle/cataya/CatayaWebApplication.class
+com/univalle/cataya/configuracion/CorsFilter.class
