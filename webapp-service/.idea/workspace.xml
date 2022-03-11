@@ -4,7 +4,130 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09b18f29-e441-4eba-b167-6eadb912a5b9" name="Changes" comment="" />
+    <list default="true" id="09b18f29-e441-4eba-b167-6eadb912a5b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ports.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT.war.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/com/univalle/cataya/CatayaWebApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/com/univalle/cataya/ServletInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/com/univalle/cataya/configuracion/CorsFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/assets/icon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/assets/icon/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/assets/shapes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/pagina.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/service-worker.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/css/main.da65b8f9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/css/main.da65b8f9.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/186.66851e7f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/186.66851e7f.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/215.67f85bd9.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/215.67f85bd9.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/215.67f85bd9.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/22.a8484a96.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/22.a8484a96.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/372.8661879f.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/372.8661879f.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/377.5b12b03c.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/377.5b12b03c.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/738.271180cc.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/738.271180cc.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/738.271180cc.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/841.92ca4a8d.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/841.92ca4a8d.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/851.d7d7c4d9.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/851.d7d7c4d9.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/851.d7d7c4d9.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/856.f0e1a325.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/856.f0e1a325.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/main.787ab21b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/main.787ab21b.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/static/static/js/main.787ab21b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/HikariCP-4.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.9.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/byte-buddy-1.10.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/dom4j-2.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/h2-1.4.200.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-5.1.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-core-5.4.33.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/istack-commons-runtime-3.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.12.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-2.12.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-databind-2.12.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-datatype-jdk8-2.12.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-datatype-jsr310-2.12.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-module-parameter-names-2.12.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jakarta.activation-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jakarta.activation-api-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jakarta.persistence-api-2.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jakarta.transaction-api-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jakarta.xml.bind-api-2.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jandex-2.2.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/javassist-3.27.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jaxb-runtime-2.3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.4.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.33.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-api-2.17.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-to-slf4j-2.17.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/logback-classic-1.2.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/logback-core-1.2.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.33.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/snakeyaml-1.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aspects-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-2.5.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-2.5.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-2.5.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-aop-2.5.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-data-jpa-2.5.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-jdbc-2.5.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-json-2.5.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-logging-2.5.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-web-2.5.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-commons-2.5.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-jpa-2.5.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jcl-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-orm-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.3.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/catayaback-0.0.1-SNAPSHOT/WEB-INF/lib/txw2-2.3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/univalle/cataya/CatayaWebApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/univalle/cataya/CatayaWebApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/univalle/cataya/ServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/univalle/cataya/ServletInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/univalle/cataya/configuracion/CorsFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/com/univalle/cataya/configuracion/CorsFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-com.univalle.cataya.CatayaWebApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../target/surefire-reports/TEST-com.univalle.cataya.CatayaWebApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/com.univalle.cataya.CatayaWebApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../target/surefire-reports/com.univalle.cataya.CatayaWebApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/com/univalle/cataya/CatayaWebApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/test-classes/com/univalle/cataya/CatayaWebApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/catayaback-0.0.1-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/catayaback-0.0.1-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/catayaback-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.univalle.cataya.CatayaWebApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.univalle.cataya.CatayaWebApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.univalle.cataya.CatayaWebApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.univalle.cataya.CatayaWebApplicationTests.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +143,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -52,6 +178,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="25u086Ql8CZSd2kdjhwK5GTuCNk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

@@ -9,11 +9,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="catayaback" />
         <module name="cataya" />
+        <module name="webapp-service" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="webapp-service" target="11" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
